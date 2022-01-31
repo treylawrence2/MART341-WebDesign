@@ -1,0 +1,3 @@
+Directaries are hierachical, organizational structures that resemble a tree with a single root that branches off into related groups of content. The relationship between a directory and a file is gradnparent to grnadchild.
+It is a way to remember all the changes you've made and it lets you take a screen shot of your entire project at any time.
+I dont really have a favorite artistic medium yet, i would say websites intrerest me the most out of them though.
