@@ -1,0 +1,2 @@
+The goal of my website is to be an NFL Fan site that follows the Arizona Cardinals closely but also covers news around the league as a whole, the site will ideally be a precursor and website for a podcast I plan to start later in the year.
+Responsive web design is important because when a website is difficult to use it makes a user less likely to return to the site, you want your website to be responsive and simple to use so users and visitors want to come back to your site for whatever it is that it has to offer.
