@@ -1,0 +1,165 @@
+body{
+  background-color: #D3D3D3
+}
+
+h1{
+  color: #333;
+  font-family: Tapestry
+  font-size: 100px;
+  letter-spacing: 0.3em;
+  text-align: center;
+}
+table{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+#title:hover{
+  letter-spacing: 1em;
+  font-weight: 700;
+  color: #FFA500
+}
+
+.titleBorder{
+  height: 200px;
+  background-color: #000000;
+  color: black;
+}
+
+.titleBorder:hover{
+  background-color: #FFA500;
+  color: #333
+  text-indent: 11em;
+  font-family: Tapestry;
+}
+
+.subtitle{
+  padding-top: 50px;
+  font-size: 75px;
+  margin: auto;
+}
+
+.content-paragraph{
+  margin: auto;
+  color: #333;
+  font-size: 20px;
+  line-height: 26px;
+  max-width: 640px;
+  font-family: Padauk
+}
+
+.image {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  padding-left: 200px;
+}
+img{
+  border: 15px solid#FFA500
+}
+
+p {
+  font-family: Padauk
+  font-size: 15px;
+}
+/*Menu*/
+header {
+  position: absolute;
+  top: 0px;
+  background-color: #FFA500;
+  margin-top: 0;
+  height: 3.5em;
+  width: 100%;
+  text-align: right;
+  font-family: Tapestry;
+  padding-right: 3em;
+}
+
+/* Set the layout of the menu: */
+.menu-item {
+  display: inline;
+  margin: 1em .2em;
+  min-width: 6em;
+  text-align: center;
+  background-color: #808080;
+  padding: 0.5em 1em;
+  border-radius: 1em;
+}
+
+.site-name {
+  color: #black;
+  text-align: left;
+  float: left;
+  font-family: Padauk
+}
+
+/* Style the links: */
+.menu-item A {
+    color: white;
+    text-decoration: none;
+}
+
+.menu-item:hover {
+  background-color: #black;
+  color: #333;
+}
+
+/* Add a dropdown feature: */
+.dropdown {
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  margin: 0.5em 0 0 -1em;
+  color: #000;
+  background-color: #808080;
+  z-index: 1;
+  border-radius: 0em 0em 1em 1em;
+}
+.dropdown-content a {
+  color: #fff;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* Style dropdown item display*/
+.dropdown-item {
+  display: block;
+  text-align: left;
+  margin: 0;
+  padding: 0.5em 1em 0.5em 1em;
+  min-width: 5.9em;
+}
+
+.dropdown-item:hover, .dropdown-item:hover a{
+    color: white;
+    background-color: #FFA500;
+}
+
+.dropdown:hover{
+  border-radius: 1em 1em 0em 0em;
+}
+
+#foundation:hover{
+  border-radius: 0em 0em 1em 1em;
+}
+
+/*Footer*/
+footer {
+  width: 100%;
+  background-color: #FFA500;
+  height: 3em;
+  text-align: center;
+  font-family: Ubuntu;
+  padding-top: 1em;
+}
+
+#footer-link {
+  color: #333;
+  font-weight: bold;
+}
